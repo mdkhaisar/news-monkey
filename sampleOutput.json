@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine, Russia set to sign deal to reopen grain export ports - Reuters",
+            "description": "Russia and Ukraine will sign a deal on Friday to reopen Ukrainian Black Sea ports for grain exports, Turkey and the United Nations said, raising hopes that an international food crisis aggravated by the Russian invasion can be eased.",
+            "url": "https://www.reuters.com/world/europe/ukraines-ports-reopen-under-deal-be-signed-friday-turkey-says-2022-07-21/",
+            "urlToImage": "https://www.reuters.com/resizer/P0bhlBgRe7ahPutIXcOrrtjDQnk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FZKK6EAQJ5K4PP7HUEDCQIHMKA.jpg",
+            "publishedAt": "2022-07-22T12:19:00Z",
+            "content": "ISTANBUL/KYIV, July 22 (Reuters) - Russia and Ukraine will sign a deal on Friday to reopen Ukrainian Black Sea ports for grain exports, Turkey and the United Nations said, raising hopes that an inter… [+6072 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sarah E. Needleman",
+            "title": "Twitter Reports Surprising Drop in Revenue Amid Elon Musk Fight - The Wall Street Journal",
+            "description": "The social-media company blamed the decline on advertising weakness and uncertainty related to its pending $44 billion acquisition by Elon Musk.",
+            "url": "https://www.wsj.com/articles/twitter-earnings-twtr-q2-2022-11658446426",
+            "urlToImage": "https://images.wsj.net/im-588703/social",
+            "publishedAt": "2022-07-22T12:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Luke Broadwater, Maggie Haberman",
+            "title": "Jan. 6 Panel Presents Evidence of Trump’s Refusal to Stop the Riot - The New York Times",
+            "description": "The House panel painted a detailed picture of how, as officials rushed to respond to an attack on the United States government, the commander in chief chose for hours to do nothing.",
+            "url": "https://www.nytimes.com/2022/07/21/us/politics/trump-jan-6.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/22/world/-21vid-Jan-6-hrg-wrap-pkg/-21vid-Jan-6-hrg-wrap-pkg--facebookJumbo.jpg",
+            "publishedAt": "2022-07-22T12:06:00Z",
+            "content": "Lawmakers said they would use August, when Congress takes a lengthy recess, to prepare a preliminary report of their findings, tentatively scheduled to be released in September. But a final report co… [+1741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Video shows Josh Hawley running from rioters on Jan. 6 - CNN",
+            "description": "At the latest hearing on Jan. 6, the select committee played video of Sen. Josh Hawley (R-MO) fleeing the Capitol during the violent riot. Before the riot, H...",
+            "url": "https://www.youtube.com/watch?v=XXQu9gJsi10",
+            "urlToImage": "https://i.ytimg.com/vi/XXQu9gJsi10/hqdefault.jpg",
+            "publishedAt": "2022-07-22T12:00:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Mike Calia",
+            "title": "5 things to know before the stock market opens Friday - CNBC",
+            "description": "Here are the most important news items that investors need to start their trading day.",
+            "url": "https://www.cnbc.com/2022/07/22/5-things-to-know-before-the-stock-market-opens-friday-july-22.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107092215-1658422297291-nyss.jpg?v=1658422320&w=1920&h=1080",
+            "publishedAt": "2022-07-22T11:46:53Z",
+            "content": "Here are the most important news items that investors need to start their trading day:\r\n1. Another mixed morning for stocks\r\nTraders work on the floor of the New York Stock Exchange (NYSE), July 21, … [+4675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Dan Ladden-Hall",
+            "title": "Prince Harry Secures Bid to Challenge U.K. Government on Security Arrangements - The Daily Beast",
+            "description": "The Duke of Sussex is fighting a ban on him paying for police protection while in Britain.",
+            "url": "https://www.thedailybeast.com/prince-harry-secures-bid-to-challenge-uk-government-on-security-arrangements",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1569,w_2790,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1658485118/GettyImages-1409487861_e56kyy",
+            "publishedAt": "2022-07-22T11:13:50Z",
+            "content": "Prince Harry has won the right to bring a legal challenge against the British government over his U.K. security arrangements. The Duke of Sussex is fighting against a decision prohibiting him from pa… [+610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "Coinbase blasts SEC over insider trading case, says none of the tokens it lists are securities - CNBC",
+            "description": "The SEC said that nine of the 25 tokens allegedly traded in the scheme were securities.",
+            "url": "https://www.cnbc.com/2022/07/22/coinbase-blasts-sec-over-insider-trading-case.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106868521-1618440974351-gettyimages-1312540547-_dsc9089.jpeg?v=1645707365&w=1920&h=1080",
+            "publishedAt": "2022-07-22T10:51:37Z",
+            "content": "Coinbase pushed back on claims from the Securities and Exchange Commission that it offers unregistered securities, following fraud charges against a former employee at the company.\r\nAn ex-Coinbase pr… [+3146 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Militants attack Mali's main military base, situation 'under control' - Reuters",
+            "description": "Suspected Islamist militants on Friday attacked the main military base where Mali's interim president lives outside the capital Bamako, but the armed forces said they had repelled the assault and had the situation under control.",
+            "url": "https://www.reuters.com/world/africa/heavy-gunfire-heard-main-mali-military-base-2022-07-22/",
+            "urlToImage": "https://www.reuters.com/resizer/wJ__6smmaHGGZ5CLEHp5IpgnueY=/1080x565/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F7K4QDHBFZKGZFX6YXWDSXBGCU.jpg",
+            "publishedAt": "2022-07-22T10:44:00Z",
+            "content": "KATI, Mali, July 22 (Reuters) - Suspected Islamist militants on Friday attacked the main military base where Mali's interim president lives outside the capital Bamako, but the armed forces said they … [+2515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rochester Democrat and Chronicle"
+            },
+            "author": ", Democrat and Chronicle",
+            "title": "Lee Zeldin attacked in Perinton NY; David Jakubonis charged, released - Democrat & Chronicle",
+            "description": "David G. Jakubonis, 43, was charged with attempted assault and released on his own recognizance in the attack on GOP gubernatorial hopeful Lee Zeldin.",
+            "url": "https://www.democratandchronicle.com/story/news/politics/2022/07/22/lee-zeldin-attacked-ny-governor-candidate-us-congressman-campaign-stop-perinton-ny/65379950007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/29/PROC/194ad225-555d-4418-8df4-e879357c9d08-AP22178819782081.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200",
+            "publishedAt": "2022-07-22T09:29:55Z",
+            "content": "A man was charged with attempted assault after attacking U.S. Rep. Lee Zeldin, the Republican nominee for New York governor, at a campaign event in the Rochester suburb of Perinton, officials said.\r\n… [+2944 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "GOP leaders won't get in the way of Trump 2024 - POLITICO",
+            "description": "Most top Hill Republicans would rather he not announce before November. But that doesn't mean they're prepared to boost any rivals — setting up a 2016 redux.",
+            "url": "https://www.politico.com/news/2022/07/22/trump-2024-republican-leaders-00047266",
+            "urlToImage": "https://static.politico.com/d9/58/2b8599f74b02997aaea9dc28bb64/election-2022-nevada-83128.jpg",
+            "publishedAt": "2022-07-22T08:30:00Z",
+            "content": "The wrinkle, of course, is that those same conditions allowed Trump to first defeat a field of more than a dozen challengers and win the nomination. And Trump is no longer the cipher he was in 2015: … [+6357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Evelyn Cheng",
+            "title": "China's Xi wishes Biden a 'speedy recovery' from Covid - CNBC",
+            "description": "Chinese President Xi Jinping wished U.S. President Joe Biden on Friday a speedy recovery from Covid, according to state media.",
+            "url": "https://www.cnbc.com/2022/07/22/chinas-xi-calls-biden-to-wish-him-a-speedy-recovery-from-covid.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107092619-1658473675449-gettyimages-1353609271-6.jpeg?v=1658473756&w=1920&h=1080",
+            "publishedAt": "2022-07-22T07:31:51Z",
+            "content": "BEIJING Chinese President Xi Jinping contacted U.S. President Joe Biden on Friday to wish the American leader a \"speedy recovery\" from Covid, according to state media.\r\nBiden tested positive for Covi… [+875 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ashley Parker, Isaac Stanley-Becker, Carol D. Leonnig",
+            "title": "Mike Pence's Secret Service agents feared for his life and theirs, official says - The Washington Post",
+            "description": "Vice President Mike Pence's Secret Service agents sent goodbye messages to family during Capitol riot, according to testimony at Jan. 6 House panel hearing.",
+            "url": "https://www.washingtonpost.com/national-security/2022/07/22/mike-pence-secret-service-january-6/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-22-2022/t_bf0fbdda0b7142bbbe22b70c26924c22_name_pence.png&w=1440",
+            "publishedAt": "2022-07-22T07:18:00Z",
+            "content": "For 13 minutes on Jan. 6, 2021, as smoke clouded the air and Vice President Mike Pence hid from rioters in his office adjacent to the Senate chamber, his Secret Service detail scrambled in increasing… [+5162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Reuters",
+            "title": "At least 18 killed in latest deadly police raid in Rio de Janeiro - New York Post ",
+            "description": "Tactical teams from Rio de Janeiro’s civil and military police raided the Alemao complex to take down an alleged criminal organization.",
+            "url": "https://nypost.com/2022/07/22/brazils-latest-police-raid-leaves-at-least-18-dead-in-rio-de-janeiro/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23158032-1658473204214.jpg?quality=75&strip=all&1658458956&w=1024",
+            "publishedAt": "2022-07-22T07:13:00Z",
+            "content": "At least 18 people died on Thursday during a major police raid in a dense warren of Rio de Janeiro slums, state military police said, in the latest bloody confrontation in Brazil’s second-largest cit… [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Kyler Murray signing massive extension: Which QBs are next to receive monster deals in the coming months? - CBS Sports",
+            "description": "Lamar Jackson and Justin Herbert are prime candidates for massive extensions",
+            "url": "https://www.cbssports.com/nfl/news/kyler-murray-signing-massive-extension-which-qbs-are-next-to-receive-monster-deals-in-the-coming-months/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/24/9b88cb04-b0db-4cfe-abaa-18c7e6c3380d/thumbnail/1200x675/58d09720750b68a69043a8e9b8297ea9/lamar-jackson-1400.jpg",
+            "publishedAt": "2022-07-22T05:01:00Z",
+            "content": "Kyler Murray became the latest quarterback to receive a massive contract, agreeing to a five-year, $230.5 million deal that makes him the second-highest-paid player in the NFL in terms of average ann… [+8854 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Tom Schad and Lindsay Schnell, USA TODAY",
+            "title": "Noah Lyles bests Michael Johnson's record to repeat as 200 world champ - USA TODAY",
+            "description": "Noah Lyles won his second consecutive world title at 200 meters, breaking the American record in one of the week's most highly anticipated events.",
+            "url": "https://www.usatoday.com/story/sports/2022/07/21/noah-lyles-bests-michael-johnsons-record-repeat-200-world-champ/10123499002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/22/USAT/bdba4b29-5998-47f9-b517-2e44bba11253-GTY_1410195484.jpg?auto=webp&crop=4422,2488,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-07-22T04:15:13Z",
+            "content": "Noah Lyles still owns the men's 200-meter dash.\r\nLyles broke Michael Johnson's national record Thursday night to repeat as world champion – and lead the second U.S. sprint sweep in six days at Haywar… [+5045 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mike Stobbe",
+            "title": "Monkeypox virus could become entrenched as new STD in the US - The Associated Press - en Español",
+            "description": "NEW YORK (AP) — The spread of monkeypox in the U.S.  could represent the dawn of a new sexually transmitted disease, though some health officials say the virus that causes pimple-like bumps might yet be contained before it gets firmly established.",
+            "url": "https://apnews.com/article/covid-science-health-sexually-transmitted-diseases-gonorrhea-3266fd0ae451578c989605f430cd3897",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e37639115a0343b0b8b4ec3f9d9cf912/2676.jpeg",
+            "publishedAt": "2022-07-22T04:12:01Z",
+            "content": "NEW YORK (AP) The spread of monkeypox in the U.S. could represent the dawn of a new sexually transmitted disease, though some health officials say the virus that causes pimple-like bumps might yet be… [+6782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rochester Democrat and Chronicle"
+            },
+            "author": "Gary Craig",
+            "title": "Rochester police officer killed in shooting; another officer injured. What we know now - Democrat & Chronicle",
+            "description": "A Rochester police officer, who was one of two shot on Bauman Street Thursday night, has died from his injuries.",
+            "url": "https://www.democratandchronicle.com/story/news/2022/07/22/rochester-ny-police-shooting-two-rpd-officers-shot-bauman-street/65379945007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/22/PROC/7b16ead0-a527-4e4e-81c9-3fd359b5f6d2-RPD.jpg?crop=1919,1079,x0,y128&width=1919&height=1079&format=pjpg&auto=webp",
+            "publishedAt": "2022-07-22T04:07:30Z",
+            "content": "A Rochester police officer, who was one of two shot on Bauman Street Thursday night, has died from his injuries.\r\nPolice spokesman Lt. Gregory Bello said the two were shot shortly after 9:15 p.m. by … [+1398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Alex Traub, McKenna Oxenden",
+            "title": "Falling Tree Kills 2 and Injures 3 During Storm in Alabama - The New York Times",
+            "description": "A tree the width of a small sedan crashed through a brick house, killing a 3-month-old girl and 3-year-old girl, the authorities said.",
+            "url": "https://www.nytimes.com/2022/07/22/us/tree-falls-birmingham-home.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/21/world/21xp-tree-promo/21xp-tree-promo-facebookJumbo.jpg",
+            "publishedAt": "2022-07-22T04:05:30Z",
+            "content": "The episode occurred early Thursday evening as a strong storm, which included lightning, swept through the Birmingham area, bringing heavy rain and winds of up to 70 miles an hour, according to the N… [+693 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "First US case of polio in nearly a decade is an Orthodox Jewish man - The Jerusalem Post",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzEyODAw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-07-22T03:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOMO News"
+            },
+            "author": "Holly Menino, KOMO News anchor/reporter",
+            "title": "New research takes closer look at highly transmissible omicron subvariant - KOMO News",
+            "description": "A new study led by researchers at the University of Washington is examining the highly-transmissible BA.5 omicron subvariant.",
+            "url": "https://komonews.com/news/coronavirus/new-research-takes-closer-look-at-high-transmissible-omicron-subvariant",
+            "urlToImage": "https://komonews.com/resources/media/c9a9ccf2-cf01-46aa-ab59-17ffd4a0e16c-large16x9_thumb_82995.png?1658457458407",
+            "publishedAt": "2022-07-22T02:50:45Z",
+            "content": null
+        }
+    ]
+}
